@@ -1,8 +1,9 @@
 {
   "name": "yash-baviskar-portfolio-react",
   "private": true,
-  "version": "1.0.0",
+  "version": "0.0.0",
   "type": "module",
+  "homepage": "https://yoboyyash.github.io",
   "description": "Yash's Developer Showcase ",
   "scripts": {
     "dev": "vite",
